@@ -1,0 +1,30 @@
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\bin\Debug\SudokuPuzzle.exe.config
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\bin\Debug\SudokuPuzzle.exe
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\bin\Debug\SudokuPuzzle.pdb
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\bin\Debug\SudokuPuzzle.xml
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.vbprojAssemblyReference.cache
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.frmComplete.resources
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.frmHelp.resources
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.frmInput.resources
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.frmMain.resources
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.Resources.resources
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.vbproj.GenerateResource.cache
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.vbproj.CoreCompileInputs.cache
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.exe
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.xml
+C:\Users\lawrence\Desktop\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.pdb
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\bin\Debug\SudokuPuzzle.exe.config
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\bin\Debug\SudokuPuzzle.exe
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\bin\Debug\SudokuPuzzle.pdb
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\bin\Debug\SudokuPuzzle.xml
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.vbprojAssemblyReference.cache
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.frmComplete.resources
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.frmHelp.resources
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.frmInput.resources
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.frmMain.resources
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.Resources.resources
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.vbproj.GenerateResource.cache
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.vbproj.CoreCompileInputs.cache
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.exe
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.xml
+D:\TNC TECHNOLOGIE\New folder\from Enow\SudokuGame\SudokuGame\obj\Debug\SudokuPuzzle.pdb
